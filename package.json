@@ -1,0 +1,14 @@
+{
+  "name": "hub",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --watch src/index.js",
+    "start": "bun src/index.js",
+    "register": "bun src/deploy/registerCommands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "express": "^5.2.1"
+  }
+}
