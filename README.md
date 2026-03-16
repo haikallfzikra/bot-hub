@@ -142,8 +142,6 @@ Informasi pertandingan EPL dari football-data.org.
 /match today team: Liverpool
 /match yesterday team: Arsenal
 /match live
-/match date date: 2025-03-15
-/match date date: 2025-03-15 team: Chelsea
 /match detail id: 123456
 /match standings
 ```
